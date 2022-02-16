@@ -1,11 +1,14 @@
 - Software Engineer 👷🏻‍♂️
-- [Triathlon enthusiast](https://www.strava.com/athletes/27881761) 🏃🏻🏊🏻 🚴🏻
-- [Team Spotify](https://open.spotify.com/user/aliabbasjaffri) 🎶
+- [Triathlon enthusiast](https://www.strava.com/athletes/27881761) 🏃🏻 🏊🏻 🚴🏻
+- [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
 ## Experience
+---
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
-***Nov 2020 -> Present***
+**Nov 2020 -> Present**
+
+*Munich, Germany*
 - Software Engineering consultant with a focus towards ML engineering
 - Worked with clients primarily on PoCs regarding:
   - setting up [data versioning](https://dvc.org/doc/start/data-and-model-versioning) and preprocessing pipelines
@@ -17,6 +20,8 @@
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
 ***June 2019 -> Aug 2020***
+
+*Munich, Germany*
 - Software Engineer with a focus towards DevOps
 - I worked closely with CTO in development and maintenance of Medikura's microservice and [microfrontend](https://micro-frontends.org/) oriented infrastructure.
 - Key areas / technologies that i contributed:
@@ -34,6 +39,8 @@
 
 ### [Siemens AG](https://www.linkedin.com/company/siemens/)
 ***Aug 2018 -> May 2019***
+
+*Munich, Germany*
 - Software Engineer with a focus towards IoT
 - I helped add features to the iOS [app for Siemoji](https://new.siemens.com/global/en/company/stories/research-technologies/topics/the-future-of-manufacturing-siemoji.html), which was continuation of my iOS Praktikum course at TUM
 - Created iOS application to facilitate hands-off interaction, assists in gathering insights and allows user to perform maintenance tasks on IoT devices
@@ -41,7 +48,11 @@
 
 ### [maiot](https://www.linkedin.com/company/maiot/)
 ***Apr 2018 -> Sept 2018***
+
+*Munich, Germany*
 - Software Engineering Intern for a mandatory [Interdisciplinary Project](https://www.in.tum.de/en/current-students/masters-programs/informatics/interdisciplinary-project/fpo-2012-and-2016-and-2018/) during MSc. Informatiks at [TUM](https://www.tum.de/en/)
 - Worked closely with CTO and other team members in setting up experimental data streaming pipelines using [Google PubSub](https://cloud.google.com/pubsub) and [Apache Beam](https://beam.apache.org/) to ingest and preprocess data for predictive maintenance of trucks.
 - Performed data analysis and visualisation using [ELK stack](https://www.elastic.co/what-is/elk-stack)
 - Explored data trends in ingested data using [Google DataStudio](https://datastudio.google.com/)
+
+### [Technical University of Munich](https://www.linkedin.com/school/technische-universitat-munchen/)
