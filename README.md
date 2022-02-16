@@ -1,7 +1,9 @@
-- Software Engineer 👷🏻‍♂️
+- Software Engineer 
 - [Triathlon enthusiast](https://www.strava.com/athletes/27881761) 🏃🏻 🏊🏻 🚴🏻
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
+
+I have worked for 4+ years in Software development 👷🏻‍♂️, eventually finding my truecalling in DevOps and MLOps after having worked in mobile development in Android and iOS, fullstack .net development and web development in React.
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
@@ -66,5 +68,39 @@
 
 *Lahore, Pakistan*
 - Software Engineer with a focus towards fullstack [dotNET framework](https://dotnet.microsoft.com/en-us/) application development
-- Developed and maintained features for autoleasing and autofinancing clients on Netsol Financial Suite ( or [NFS Ascent](https://netsoltech.com/nfs-ascent) ) in a team of 8, including PM and Team Lead.
+- Developed and maintained features for autoleasing and autofinancing clients on Netsol Financial Suite ( or [NFS Ascent](https://netsoltech.com/nfs-ascent) ) in a team of 25 people, including PM, Team Lead, Business Analysts, testing, database management and deployment groups.
 - Participated in software development lifecycle, with ranging from requirement gathering from client, writing functional documents, creating stories and tasks in [JIRA](https://www.atlassian.com/software/jira), estimation of effort and sprint planning, developing, testing of modules and deployment.
+- Tech stack included Microsoft [Silverlight](https://www.microsoft.com/silverlight/) for frontend application, [SOAP](https://en.wikipedia.org/wiki/SOAP) as messaging protocol,  Microsoft [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) as database and [ASP.net](https://dotnet.microsoft.com/en-us/apps/aspnet) for backend services.
+
+### [oDesk](https://www.linkedin.com/company/odesk/)
+**Feb 2015 &rarr; Jul 2017**
+
+*remote*
+- Freelanced on projects on Android and iOS
+- Learned about understaing requirements from the clients and leading a software engineering projects.
+- 
+
+### [Punjab Information Technology Board](https://www.linkedin.com/company/punjab-information-technology-board/)
+**Oct 2015 &rarr; Mar 2016**
+
+*remote*
+- Freelanced on projects on Android and iOS
+
+
+## Education
+### [Technical University of Munich](https://www.linkedin.com/school/technische-universitat-munchen/)
+**Oct 2017 &rarr; Aug 2020**
+
+*Munich, Germany*
+- Completed my MSc. Informatiks with a focus towards Software engineering and Distributed systems
+- Took courses in patterns of software engineering, cloud computing, peer-to-peer networks, with practical courses in iOS development and automated diagnosis of drone crashes and web development using [mern stack](https://www.mongodb.com/mern-stack).
+- Wrote my master's thesis with chair of Business Information Systems, on the topic of `Profiling scalable storage solutions for distributed deep learning`, where my goal was to identify and provide remedial recommentations for storage bottlenecks in image recognition and natural language processing pipelines.
+
+### [National University of Computer and Emerging Sciences](https://www.linkedin.com/school/fastnu/)
+**Aug 2011 &rarr; Aug 2016**
+
+*Lahore, Pakistan*
+- Completed my BSc. Computer Science with a focus towards Software engineering
+- Took courses in software engineering, object oriented programming, algorithms and data structures, advanced programming with topics such as thread safe coding, multiprocessing and memory management, artificial intelligence, human computer interaction, probability and statistics, linear algebra and higher order differential equations.
+- Wrote my bachelors's thesis in `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
+
