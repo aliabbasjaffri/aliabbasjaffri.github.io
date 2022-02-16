@@ -4,9 +4,8 @@
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
 ## Experience
----
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
-**Nov 2020 -> Present**
+**Nov 2020 &rarr; Present**
 
 *Munich, Germany*
 - Software Engineering consultant with a focus towards ML engineering
@@ -19,7 +18,7 @@
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
-***June 2019 -> Aug 2020***
+**June 2019 &rarr; Aug 2020**
 
 *Munich, Germany*
 - Software Engineer with a focus towards DevOps
@@ -38,7 +37,7 @@
   - development of microservices on node.js
 
 ### [Siemens AG](https://www.linkedin.com/company/siemens/)
-***Aug 2018 -> May 2019***
+**Aug 2018 &rarr; May 2019**
 
 *Munich, Germany*
 - Software Engineer with a focus towards IoT
@@ -46,13 +45,27 @@
 - Created iOS application to facilitate hands-off interaction, assists in gathering insights and allows user to perform maintenance tasks on IoT devices
 - I was responsible for creating the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
 
-### [maiot](https://www.linkedin.com/company/maiot/)
-***Apr 2018 -> Sept 2018***
+### [maiot GmbH](https://www.linkedin.com/company/maiot/)
+**Apr 2018 &rarr; Sept 2018**
 
 *Munich, Germany*
 - Software Engineering Intern for a mandatory [Interdisciplinary Project](https://www.in.tum.de/en/current-students/masters-programs/informatics/interdisciplinary-project/fpo-2012-and-2016-and-2018/) during MSc. Informatiks at [TUM](https://www.tum.de/en/)
 - Worked closely with CTO and other team members in setting up experimental data streaming pipelines using [Google PubSub](https://cloud.google.com/pubsub) and [Apache Beam](https://beam.apache.org/) to ingest and preprocess data for predictive maintenance of trucks.
 - Performed data analysis and visualisation using [ELK stack](https://www.elastic.co/what-is/elk-stack)
-- Explored data trends in ingested data using [Google DataStudio](https://datastudio.google.com/)
+- Explored data trends in ingested data in [Google Bigtable](https://cloud.google.com/bigtable) using [Google DataStudio](https://datastudio.google.com/)
 
 ### [Technical University of Munich](https://www.linkedin.com/school/technische-universitat-munchen/)
+**Apr 2018 &rarr; Aug 2018**
+
+*Munich, Germany*
+- Tutored students of [Introduction to Software Engineering](https://ase.in.tum.de/lehrstuhl_1/teaching/summer-2018/121-teaching/st18/963-eist-2018) at the Chair of Applied Software Engineering
+- Helped students in understanding exercises and course content, which spanned software modelling, software development lifecycle, system design, object oriented design, testing and project organization.
+- Conducted 3hr long weekly tutorials and lecture explanation for a group of over 50 students
+
+### [NetSol Technologies Inc.](https://www.linkedin.com/company/netsol-technologies-inc-/)
+**Jul 2015 &rarr; Aug 2017**
+
+*Lahore, Pakistan*
+- Software Engineer with a focus towards fullstack [dotNET framework](https://dotnet.microsoft.com/en-us/) application development
+- Developed and maintained features for autoleasing and autofinancing clients on Netsol Financial Suite ( or [NFS Ascent](https://netsoltech.com/nfs-ascent) ) in a team of 8, including PM and Team Lead.
+- Participated in software development lifecycle, with ranging from requirement gathering from client, writing functional documents, creating stories and tasks in [JIRA](https://www.atlassian.com/software/jira), estimation of effort and sprint planning, developing, testing of modules and deployment.
