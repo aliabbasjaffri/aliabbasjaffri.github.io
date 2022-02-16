@@ -13,7 +13,6 @@
   - setting up [data versioning](https://dvc.org/doc/start/data-and-model-versioning) and preprocessing pipelines
   - data and feature exploration using jupyter notebooks, numpy and seaborn
   - provisioning infrastructure on AWS and Azure using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/) and [pulumi](https://www.pulumi.com/)
-  - deploying applications on AWS and Azure cloud
   - planning lifecycle management of machine learning projects
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
