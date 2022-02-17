@@ -1,9 +1,9 @@
-- Software Engineer 
+- Software Engineer 👷🏻‍♂️
 - [Triathlon enthusiast](https://www.strava.com/athletes/27881761) 🏃🏻 🏊🏻 🚴🏻
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
-I have worked for 4+ years in Software development 👷🏻‍♂️, eventually finding my truecalling in DevOps and MLOps after having worked in mobile development in Android and iOS, fullstack .net development and web development in React.
+*I have worked for 4+ years in Software development, eventually finding my truecalling in DevOps and MLOps after having worked in mobile development in Android and iOS, fullstack .net development and web development in React.*
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
@@ -43,8 +43,7 @@ I have worked for 4+ years in Software development 👷🏻‍♂️, eventually
 *Munich, Germany*
 - Software Engineer with a focus towards IoT
 - I helped add features to the iOS [app for Siemoji](https://new.siemens.com/global/en/company/stories/research-technologies/topics/the-future-of-manufacturing-siemoji.html), which was continuation of my iOS Praktikum course at TUM
-- Created iOS application to facilitate hands-off interaction, assists in gathering insights and allows user to perform maintenance tasks on IoT devices
-- I was responsible for creating the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
+- I was responsible for creating and improving the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
 
 ### [maiot GmbH](https://www.linkedin.com/company/maiot/)
 **Apr 2018 &rarr; Sept 2018**
@@ -77,14 +76,14 @@ I have worked for 4+ years in Software development 👷🏻‍♂️, eventually
 
 *remote*
 - Freelanced on projects on Android and iOS
-- Learned about understaing requirements from the clients and leading a software engineering projects.
-- 
+- Learned about understaing requirements from the clients and leading solo software engineering projects.
 
 ### [Punjab Information Technology Board](https://www.linkedin.com/company/punjab-information-technology-board/)
 **Oct 2015 &rarr; Mar 2016**
 
-*remote*
-- Freelanced on projects on Android and iOS
+*Lahore, Pakistan*
+- Worked on the inital draft of an android application to [help provincial government track immunization records of new born babies](https://www.facebook.com/Har.Zindagi.Every.life.matters/) across the province of Punjab.
+- I was responsible for creating an android application which could work in low network coverage and was able to transmit information through an NFC chip implanted on every health care card issued to new born babies. The data would then sync with remote servers once there is availability of network coverage.
 
 
 ## Education
@@ -102,5 +101,27 @@ I have worked for 4+ years in Software development 👷🏻‍♂️, eventually
 *Lahore, Pakistan*
 - Completed my BSc. Computer Science with a focus towards Software engineering
 - Took courses in software engineering, object oriented programming, algorithms and data structures, advanced programming with topics such as thread safe coding, multiprocessing and memory management, artificial intelligence, human computer interaction, probability and statistics, linear algebra and higher order differential equations.
-- Wrote my bachelors's thesis in `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
+- Topic of my bachelors's thesis was investigating and finding a solution for detecting `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
 
+## Certifications
+### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/bdb44bdf-d7fb-4898-b527-d9db6056db37)
+- *Amazon Web Services*
+- **Issued Sept 2021 &rarr; Expires Sept 2024**
+
+
+### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/account/accomplishments/verify/F6YQKLV4PTUC)
+- *Coursera*
+- **Issued Mar 2020 &rarr; No Expiration date**
+
+### [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/account/accomplishments/certificate/S9TX8TZ3JJ2S)
+- *Coursera*
+- **Issued Jan 2020 &rarr; No Expiration date**
+
+### [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/verify/V6C9JUQCRYJF)
+- *Coursera*
+- **Issued Jan 2020 &rarr; No Expiration date**
+
+### [Siemens Global University Challenge - Nuremberg](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge)
+- *Siemens AG*
+- **2018**
+- This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
