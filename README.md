@@ -3,14 +3,14 @@
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
-*I have worked for 4+ years in Software development, eventually finding my truecalling in DevOps and MLOps after having worked in mobile development in Android and iOS, fullstack .net development and web development in React. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/) account.*
+*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack .net, and mern stack web development. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/) account.*
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
 **Nov 2020 &rarr; Present**
 
 *Munich, Germany*
-- Software Engineering consultant with a focus towards ML engineering
+- Software engineering consultant with a focus towards ML engineering
 - Worked with clients primarily on PoCs regarding:
   - setting up [data versioning](https://dvc.org/doc/start/data-and-model-versioning) and preprocessing pipelines
   - data and feature exploration using jupyter notebooks, numpy and seaborn
@@ -44,6 +44,7 @@
 - Software Engineer with a focus towards IoT
 - I helped add features to the iOS [app for Siemoji](https://new.siemens.com/global/en/company/stories/research-technologies/topics/the-future-of-manufacturing-siemoji.html), which was continuation of my iOS Praktikum course at TUM
 - I was responsible for creating and improving the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
+- Second part of my job was related to gathering logging and sensor data (both digital and analogue) from Siematic 2040 devices to [Siemens MindSphere IoT Cloud](https://siemens.mindsphere.io/en) using [mraa](http://iotdk.intel.com/docs/master/mraa/python/).
 
 ### [maiot GmbH](https://www.linkedin.com/company/maiot/)
 **Apr 2018 &rarr; Sept 2018**
@@ -103,7 +104,7 @@
 - Took courses in software engineering, object oriented programming, algorithms and data structures, advanced programming with topics such as thread safe coding, multiprocessing and memory management, artificial intelligence, human computer interaction, probability and statistics, linear algebra and higher order differential equations.
 - Topic of my bachelors's thesis was investigating and finding a solution for detecting `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
 
-## Certifications
+## Certifications and Awards
 ### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/bdb44bdf-d7fb-4898-b527-d9db6056db37)
 - *Amazon Web Services*
 - **Issued Sept 2021 &rarr; Expires Sept 2024**
@@ -121,7 +122,8 @@
 - *Coursera*
 - **Issued Jan 2020 &rarr; No Expiration date**
 
-### [Siemens Global University Challenge - Nuremberg](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge)
+### [Siemens Global University Challenge 2018 - Nuremberg](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge)
 - *Siemens AG*
-- **2018**
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
+
+## Skills and Competencies
