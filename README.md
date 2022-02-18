@@ -3,7 +3,7 @@
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
-*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack .net, and mern stack web development. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/) account.*
+*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/) account.*
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
@@ -12,10 +12,10 @@
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
 - Worked with clients primarily on PoCs regarding:
+  - data and feature exploration using standard data science stack (jupyter notebooks, numpy and seaborn)
   - setting up [data versioning](https://dvc.org/doc/start/data-and-model-versioning) and preprocessing pipelines
-  - data and feature exploration using jupyter notebooks, numpy and seaborn
-  - provisioning infrastructure on AWS and Azure using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/) and [pulumi](https://www.pulumi.com/)
-  - planning lifecycle management of machine learning projects
+  - infrastructure provisioning on AWS and Azure using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
+  - planning lifecyle management of machine learning projects
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
@@ -59,8 +59,8 @@
 **Apr 2018 &rarr; Aug 2018**
 
 *Munich, Germany*
-- Tutored students of [Introduction to Software Engineering](https://ase.in.tum.de/lehrstuhl_1/teaching/summer-2018/121-teaching/st18/963-eist-2018) at the Chair of Applied Software Engineering
-- Helped students in understanding exercises and course content, which spanned software modelling, software development lifecycle, system design, object oriented design, testing and project organization.
+- Tutored students of the [Introduction to Software Engineering](https://ase.in.tum.de/lehrstuhl_1/teaching/summer-2018/121-teaching/st18/963-eist-2018) course at the Chair of Applied Software Engineering
+- Helped students in understanding the course content and exercises, which spanned software modeling, software development lifecycle, system design, object oriented design, testing and project organization.
 - Conducted 3hr long weekly tutorials and lecture explanation for a group of over 50 students
 
 ### [NetSol Technologies Inc.](https://www.linkedin.com/company/netsol-technologies-inc-/)
@@ -108,7 +108,6 @@
 ### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/bdb44bdf-d7fb-4898-b527-d9db6056db37)
 - *Amazon Web Services*
 - **Issued Sept 2021 &rarr; Expires Sept 2024**
-
 
 ### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/account/accomplishments/verify/F6YQKLV4PTUC)
 - *Coursera*
