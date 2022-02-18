@@ -3,7 +3,7 @@
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
-*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/) account.*
+*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached on my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/).*
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
