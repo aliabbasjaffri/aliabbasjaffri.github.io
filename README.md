@@ -13,8 +13,8 @@
 - Software engineering consultant with a focus towards ML engineering
 - Worked with clients primarily on PoCs regarding:
   - data and feature exploration using standard data science stack (jupyter notebooks, numpy and seaborn)
-  - setting up [data versioning](https://dvc.org/doc/start/data-and-model-versioning) and preprocessing pipelines
-  - infrastructure provisioning on AWS and Azure using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
+  - setting up data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
+  - infrastructure provisioning on [AWS](https://aws.amazon.com/) and [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - planning lifecyle management of machine learning projects
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
