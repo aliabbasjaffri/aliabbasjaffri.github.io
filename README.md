@@ -12,7 +12,7 @@
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
 - Worked with clients primarily on PoCs regarding:
-  - data and feature exploration using standard data science stack (jupyter notebooks, numpy and seaborn)
+  - data and feature exploration using standard data science stack (jupyter notebooks, pandas, numpy, seaborn)
   - setting up data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
   - infrastructure provisioning on [AWS](https://aws.amazon.com/) and [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - planning lifecyle management of machine learning projects
@@ -126,3 +126,4 @@
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
 ## Skills and Competencies
+- 
