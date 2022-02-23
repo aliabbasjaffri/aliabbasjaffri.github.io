@@ -126,7 +126,7 @@
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
 ## Skills and Competencies
-- Python, Go, Typescript, Javascript, Swift, C++, C, Java, C\#, SQL
+- Python, Go, Typescript, Javascript, Swift, C++, C, Java, C#, SQL
 - Data Science stack: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
 - Infrastructure: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
 - Web: Flask, Javascript, Typescript, React, Google APIs, MongoDb, node.js, Django
