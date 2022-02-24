@@ -134,9 +134,9 @@
 - __Har Zindagi__: An android app for tracking child immunization activities in rural areas of Pakistan
 
 ## Skills and Competencies
-- Python, Go, Typescript, Swift, C++, C, Java, C#, SQL, Javascript
-- Data Science stack: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
-- Infrastructure: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
-- Web: Flask, Javascript, Typescript, React, Google APIs, MongoDb, node.js, Django
-- ML Framework: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
-- Mobile Development: Android, iOS, Swift, Java, XCode, Android Studio
+- __Languages__: Python, Go, Typescript, Swift, C++, C, Java, C#, SQL, Javascript
+- __Data Science stack__: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
+- __Infrastructure__: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
+- __Web__: Flask, Javascript, Typescript, React, Google APIs, MongoDb, node.js, Django
+- __ML Framework__: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
+- __Mobile Development__: Android, iOS, Swift, Java, XCode, Android Studio
