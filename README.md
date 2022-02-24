@@ -125,10 +125,18 @@
 - *Siemens AG*
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
+## Projects
+- __Iris classification pipeline__: Pipeline built on flyte for training Iris dataset using Pytorch and MLFlow
+- __Fashion MNIST pipeline__: Pipeline built on MetaFlow for training Fashion MNIST using Pytorch, MLFlow and BentoML
+- __Digit MNIST pipeline__: Pipeline built on ZenML for training MNIST using Pytorch, MLFlow and BentoML
+- __Cafe around the Corner__: Location based web application for cozy coffee shops in Munich
+- __Siemoji__: An iOS application to assist maintenance of IoT fleet
+- __Har Zindagi__: An android app for tracking child immunization activities in rural areas of Pakistan
+
 ## Skills and Competencies
-- Python, Go, Typescript, Javascript, Swift, C++, C, Java, C#, SQL
+- Python, Go, Typescript, Swift, C++, C, Java, C#, SQL, Javascript
 - Data Science stack: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
 - Infrastructure: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
 - Web: Flask, Javascript, Typescript, React, Google APIs, MongoDb, node.js, Django
-- ML Framework: Pytorch, ZenML, Metaflow, MLflow, BentoML, flyte, Kafka, Apache Beam
+- ML Framework: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
 - Mobile Development: Android, iOS, Swift, Java, XCode, Android Studio
