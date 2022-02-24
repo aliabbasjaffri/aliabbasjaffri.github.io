@@ -137,6 +137,6 @@
 - __Languages__: Python, Go, Typescript, Swift, C++, C, Java, C#, SQL, Javascript
 - __Data Science stack__: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
 - __Infrastructure__: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
-- __Web__: Flask, Javascript, Typescript, React, Google APIs, MongoDb, node.js, Django
+- __Web__: Flask, Gunicorn, Uvicorn, React, Django, Typescript, Python, Google APIs, MongoDb, node.js, Swagger
 - __ML Framework__: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
 - __Mobile Development__: Android, iOS, Swift, Java, XCode, Android Studio
