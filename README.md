@@ -126,7 +126,7 @@
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
 ## Projects
-- __Iris classification pipeline__: Pipeline built on flyte for training Iris dataset using Pytorch and MLFlow
+- __Iris classification pipeline__: Pipeline built on [flyte](https://flyte.org/) for training Iris dataset using Pytorch and tracking using [Weights and Biases](https://wandb.ai/site)
 - __Fashion MNIST pipeline__: Pipeline built on MetaFlow for training Fashion MNIST using Pytorch, MLFlow and BentoML
 - __Digit MNIST pipeline__: Pipeline built on ZenML for training MNIST using Pytorch, MLFlow and BentoML
 - __Cafe around the Corner__: Location based web application for cozy coffee shops in Munich
