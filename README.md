@@ -125,6 +125,15 @@
 - *Siemens AG*
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
+## Hackathons
+- [hackaTUM](https://hack.tum.de/) 2018 - (participant)
+- [HackZurich](https://hackzurich.com/) 2018 (participant)
+- [Siemens Global University Challenge](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge) 2018 - Nuremberg (Most Innovative Idea award)
+- [hackaTUM](https://hack.tum.de/) 2019 (participant)
+- [HackZurich](https://hackzurich.com/) 2019 (Runner up for Credit Suisse Award)
+- [HackZurich](https://hackzurich.com/) 2021 (participant)
+- [flyte Online Hackathon](https://flyte.org/hackathon/) 2022 (participant)
+
 ## Projects
 - __Iris classification pipeline__: Pipeline built on [flyte](https://flyte.org/) for training Iris dataset using Pytorch and tracking using [Weights and Biases](https://wandb.ai/site)
 - __Fashion MNIST pipeline__: Pipeline built on MetaFlow for training Fashion MNIST using Pytorch, MLFlow and BentoML
