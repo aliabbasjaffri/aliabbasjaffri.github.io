@@ -109,6 +109,16 @@
 - *Amazon Web Services*
 - **Issued Sept 2021 &rarr; Expires Sept 2024**
 
+### [KubeCon + CloudNativeCon Europe 2021 - Virtual](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- *KubeCon*
+- **Issued May 2021**
+- I received scholarship from KubeCon and CloudNativeCon Europe, managed by CNCF and Linux Foundation, to attend the event worth hundreds of dollars.
+
+### [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- *KubeCon*
+- **Issued Nov 2020**
+- I received scholarship from KubeCon and CloudNative North America, managed by CNCF and Linux Foundation, to attend the event worth hundreds of dollars.
+
 ### [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/account/accomplishments/verify/F6YQKLV4PTUC)
 - *Coursera*
 - **Issued Mar 2020 &rarr; No Expiration date**
