@@ -11,9 +11,9 @@
 
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
-- I worked with multiple clients in Reply's portfolio, primarily on PoCs, on the following topics:
+- worked with multiple clients in Reply's portfolio, primarily on PoCs, on the following topics:
   - data and feature exploration for inventory turnover prediction using standard data science stack (`jupyter notebooks`, `pandas`, `numpy`, `seaborn`) and created data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
-  - machine learning platform infrastructure provisioning on [AWS](https://aws.amazon.com/) and cloud migration to [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
+  - provisioned and maintained machine learning platform infrastructure on [AWS](https://aws.amazon.com/) and cloud migration to [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
@@ -41,9 +41,9 @@
 
 *Munich, Germany*
 - Software Engineer with a focus towards IoT
-- I helped add features to the iOS [app for Siemoji](https://new.siemens.com/global/en/company/stories/research-technologies/topics/the-future-of-manufacturing-siemoji.html), which was continuation of my iOS Praktikum course at TUM
-- I was responsible for creating and improving the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
-- Second part of my job was related to gathering logging and sensor data (both digital and analogue) from Siematic 2040 devices to [Siemens MindSphere IoT Cloud](https://siemens.mindsphere.io/en) using [mraa](http://iotdk.intel.com/docs/master/mraa/python/).
+- helped add features to the iOS [app for Siemoji](https://new.siemens.com/global/en/company/stories/research-technologies/topics/the-future-of-manufacturing-siemoji.html), which was continuation of my [iOS Praktikum course](https://ase.in.tum.de/lehrstuhl_1/teaching/older-terms/121-teaching/st18/970-ipraktikum-ss18) at TUM
+- responsible for creating and improving the user interface for hands-off interaction with the devices using Augmented Reality from iOS [ARKit](https://developer.apple.com/augmented-reality/) to identify and interact with [Siematic IoT devices](https://new.siemens.com/global/en/products/automation/pc-based/iot-gateways/iot2000.html). The identification of these devices was made possible using ML model made by the team during university project.
+- part of my job was related to gathering logging and sensor data (both digital and analogue) from Siematic 2040 devices to [Siemens MindSphere IoT Cloud](https://siemens.mindsphere.io/en) using [mraa](http://iotdk.intel.com/docs/master/mraa/python/).
 
 ### [maiot GmbH](https://www.linkedin.com/company/maiot/)
 **Apr 2018 &rarr; Sept 2018**
