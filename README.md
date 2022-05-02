@@ -23,17 +23,18 @@
 - Software Engineer with a focus towards DevOps
 - I worked closely with CTO in development and maintenance of Medikura's microservice and [microfrontend](https://micro-frontends.org/) oriented infrastructure.
 - Key areas / technologies that i contributed:
-  - created gitlab runners and pipelines for build, test and [code reviews](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#review-apps)
-  - [automated scaling of gitlab runners](https://docs.gitlab.com/runner/configuration/autoscale.html) during peak hours
-  - created [multistage docker builds](https://docs.docker.com/develop/develop-images/multistage-build/) for all micro frontends and services.
+  - refactored microservices and frontends as per [12 factor app rules](https://12factor.net/)
+  - set up [automated scaling of gitlab runners](https://docs.gitlab.com/runner/configuration/autoscale.html) to speed up code build and deployment tasks during peak hours
+  - created gitlab pipelines for build, test and faster [code reviews](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#review-apps)
+  - created [multistage docker builds](https://docs.docker.com/develop/develop-images/multistage-build/) for all micro frontends and services to make use of efficient layer caching and faster builds
   - [docker buildx](https://docs.docker.com/buildx/working-with-buildx/) to speed up docker image builds
-  - [Rancher kubernetes](https://rancher.com/) for microservice deployment and orchestration in development, staging and production environments
+  - management of [Rancher kubernetes](https://rancher.com/) for microservice deployment and orchestration in development, staging and production environments
   - [high availability deployment of Rancher kubernetes](https://rancher.com/docs/rancher/v2.6/en/installation/resources/k8s-tutorials/infrastructure-tutorials/infra-for-ha/) for fault tolerance
-  - created [NGINX ingresses](https://kubernetes.github.io/ingress-nginx/) for exposing micro frontends and services.
-  - Hashicorp [consul](https://www.consul.io/) and [vault](https://www.vaultproject.io/) for [security of data](https://www.hashicorp.com/products/vault/data-protection) and [certificates](https://www.consul.io/docs/connect/ca)
-  - [OpenSSL](https://www.openssl.org/), [LetsEncrypt](https://letsencrypt.org/) and [certmanager](https://cert-manager.io/) for SSL certificates for web facing microservices
+  - created [NGINX ingress](https://kubernetes.github.io/ingress-nginx/)es for exposing micro frontends and services.
+  - helped set up high availability deployments of hashicorp [consul](https://www.consul.io/) for service discovery and [vault](https://www.vaultproject.io/) for [security of data](https://www.hashicorp.com/products/vault/data-protection)
+  - set up automated certificate creation for web facing microfrontends using [OpenSSL](https://www.openssl.org/), [LetsEncrypt](https://letsencrypt.org/) and [certmanager](https://cert-manager.io/)
   - high availability and security of [MongoDB](https://docs.mongodb.com/manual/core/replica-set-high-availability/), [Event Store](https://developers.eventstore.com/server/v21.10/cluster.html#cluster-with-gossip-seeds) and [consul](https://learn.hashicorp.com/tutorials/vault/ha-with-consul) databases
-  - development of microservices on node.js
+  - development of microservices on [node.js](https://nodejs.org/en/)
 
 ### [Siemens AG](https://www.linkedin.com/company/siemens/)
 **Aug 2018 &rarr; May 2019**
