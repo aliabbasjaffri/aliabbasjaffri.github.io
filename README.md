@@ -11,11 +11,9 @@
 
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
-- Worked with clients primarily on PoCs regarding:
-  - data and feature exploration using standard data science stack (jupyter notebooks, pandas, numpy, seaborn)
-  - setting up data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
-  - infrastructure provisioning on [AWS](https://aws.amazon.com/) and [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
-  - planning lifecyle management of machine learning projects
+- I worked with multiple clients in Reply's portfolio, primarily on PoCs, on the following topics:
+  - data and feature exploration for inventory turnover prediction using standard data science stack (`jupyter notebooks`, `pandas`, `numpy`, `seaborn`) and created data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
+  - machine learning platform infrastructure provisioning on [AWS](https://aws.amazon.com/) and cloud migration to [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
