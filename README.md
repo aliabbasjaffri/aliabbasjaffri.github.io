@@ -104,6 +104,12 @@
 - Topic of my bachelors's thesis was investigating and finding a solution for detecting `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
 
 ## Certifications and Awards
+### [flyte online hackathon - remote](https://flyte.org/hackathon/)
+- *flyte and union.ai*
+- **Issued April 2022**
+- Ranked 3rd amongst 11 competing teams and won cash prize and an opportunity to contribute to official flyte repo with our work as example code
+- Gave a presentation of our (me along with my group partner) work on [MLOps Community meetup session](https://www.youtube.com/watch?v=OLD5-G9R9fw)
+
 ### [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/bdb44bdf-d7fb-4898-b527-d9db6056db37)
 - *Amazon Web Services*
 - **Issued Sept 2021 &rarr; Expires Sept 2024**
@@ -135,13 +141,13 @@
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
 ## Hackathons
+- [flyte Online Hackathon](https://flyte.org/hackathon/) 2022 (Third place award along with prize money and merch!)
+- [HackZurich](https://hackzurich.com/) 2021 (participant)
+- [HackZurich](https://hackzurich.com/) 2019 (Runner up for Credit Suisse Award)
+- [hackaTUM](https://hack.tum.de/) 2019 (participant)
+- [Siemens Global University Challenge](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge) 2018 - Nuremberg (Most Innovative Idea award)
 - [hackaTUM](https://hack.tum.de/) 2018 - (participant)
 - [HackZurich](https://hackzurich.com/) 2018 (participant)
-- [Siemens Global University Challenge](https://ase.in.tum.de/lehrstuhl_1/siemens-ipraktium-team-iot-is-among-the-10-winners-of-the-siemens-global-university-challenge) 2018 - Nuremberg (Most Innovative Idea award)
-- [hackaTUM](https://hack.tum.de/) 2019 (participant)
-- [HackZurich](https://hackzurich.com/) 2019 (Runner up for Credit Suisse Award)
-- [HackZurich](https://hackzurich.com/) 2021 (participant)
-- [flyte Online Hackathon](https://flyte.org/hackathon/) 2022 (participant)
 
 ## Projects
 - __Iris classification pipeline__: Pipeline built on [flyte](https://flyte.org/) for training Iris dataset using Pytorch and tracking using [Weights and Biases](https://wandb.ai/site)
