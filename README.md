@@ -104,9 +104,8 @@
 - Topic of my bachelors's thesis was investigating and finding a solution for detecting `Heart valvular disease detection using Phonocardiogram signals`, which aimed towards identifying valvular heart diseases in patients using a smart phone.
 
 ## Certifications and Awards
-### [flyte online hackathon - remote](https://flyte.org/hackathon/)
+### [flyte hackathon 2022 - remote](https://flyte.org/hackathon/)
 - *flyte and union.ai*
-- **Issued April 2022**
 - Ranked 3rd amongst 11 competing teams and won cash prize and an opportunity to contribute to official flyte repo with our work as example code
 - Gave a presentation of our (me along with my group partner) work on [MLOps Community meetup session](https://www.youtube.com/watch?v=OLD5-G9R9fw)
 
@@ -150,6 +149,7 @@
 - [HackZurich](https://hackzurich.com/) 2018 (participant)
 
 ## Projects
+- __Music genre classification pipeline__: Pipeline built on [flyte](https://flyte.org/) for training [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan) using Tensorflow, tracking using [Weights and Biases](https://wandb.ai/site) and deployment using [StreamLit](https://streamlit.io/)
 - __Iris classification pipeline__: Pipeline built on [flyte](https://flyte.org/) for training Iris dataset using Pytorch and tracking using [Weights and Biases](https://wandb.ai/site)
 - __Fashion MNIST pipeline__: Pipeline built on MetaFlow for training Fashion MNIST using Pytorch, MLFlow and BentoML
 - __Digit MNIST pipeline__: Pipeline built on ZenML for training MNIST using Pytorch, MLFlow and BentoML
