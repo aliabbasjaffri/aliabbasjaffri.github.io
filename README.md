@@ -12,7 +12,7 @@
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
 - worked with multiple clients in Reply's portfolio, primarily on PoCs, on the following topics:
-  - data and feature exploration for inventory turnover prediction using standard data science stack (`jupyter notebooks`, `pandas`, `numpy`, `seaborn`) and created data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
+  - data and feature exploration using standard data science stack (`jupyter notebooks`, `pandas`, `numpy`, `seaborn`) and data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
   - provisioned and maintained machine learning platform infrastructure on [AWS](https://aws.amazon.com/) and cloud migration to [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
@@ -21,8 +21,8 @@
 
 *Munich, Germany*
 - Software Engineer with a focus towards DevOps
-- I worked closely with CTO in development and maintenance of Medikura's microservice and [microfrontend](https://micro-frontends.org/) oriented infrastructure.
-- Key areas / technologies that i contributed:
+- worked closely with CTO in development and maintenance of Medikura's microservice and [microfrontend](https://micro-frontends.org/) oriented infrastructure.
+- key areas / technologies that i contributed:
   - refactored microservices and frontends as per [12 factor app rules](https://12factor.net/)
   - set up [automated scaling of gitlab runners](https://docs.gitlab.com/runner/configuration/autoscale.html) to speed up code build and deployment tasks during peak hours
   - created gitlab pipelines for build, test and faster [code reviews](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html#review-apps)
