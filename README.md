@@ -3,7 +3,7 @@
 - [Team Spotify](https://open.spotify.com/user/aliabbasjaffri)  🎶
 - [LoTR-ed for life](https://www.youtube.com/watch?v=Sagg08DrO5U) 🧙🏻‍♂️
 
-*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached via my email address, [ali.abbasjaffri@live.com](mailto:ali.abbasjaffri@live.com?subject=Hello), or via my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) account and my work can be viewed on my [github](https://github.com/aliabbasjaffri/).*
+*I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached via my email address, [ali.abbasjaffri@live.com](mailto:ali.abbasjaffri@live.com?subject=oh Hello There!), or via my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) and my work can be viewed on my [github](https://github.com/aliabbasjaffri/). I recently started to pen down my thoughts on [medium](https://medium.com/@aliabbasjaffri_/) regarding different tools that i use on a daily basis, including some tutorials and how i managed to solve some interesting challenges.*
 
 ## Experience
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
