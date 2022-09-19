@@ -140,6 +140,7 @@
 - This hackathon was the continuation of my iOS praktikum project, which made its way to the final 10 projects and eventually sweeped the prize for Most Innovative Idea.
 
 ## Hackathons
+- [HackZurich](https://hackzurich.com/) 2022 (participant)
 - [flyte Online Hackathon](https://flyte.org/hackathon/) 2022 (Third place award along with prize money and merch!)
 - [HackZurich](https://hackzurich.com/) 2021 (participant)
 - [HackZurich](https://hackzurich.com/) 2019 (Runner up for Credit Suisse Award)
