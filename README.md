@@ -6,8 +6,15 @@
 *I have worked for 4+ years in Software development, eventually finding my true calling in DevOps and MLOps after working in Android and iOS, full-stack dotnet, and mern stack web development. I can be reached via my email address, [ali.abbasjaffri@live.com](mailto:ali.abbasjaffri@live.com?subject=oh Hello There!), or via my [LinkedIn](https://www.linkedin.com/in/aliabbasjaffri) and my work can be viewed on my [github](https://github.com/aliabbasjaffri/). I recently started to pen down my thoughts on [medium](https://medium.com/@aliabbasjaffri_/) regarding different tools that i use on a daily basis, including some tutorials and how i managed to solve some interesting challenges.*
 
 ## Experience
+### [union.ai](https://www.union.ai/)
+**Oct 2022 &rarr; Present**
+
+*Munich, Germany*
+- Infrastructure engineer
+- Responsible for defining strategy and implementing a multi-cloud highly scalable and reliable infrastructure for union.ai flagship product, [flyte](https://flyte.org/)
+
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
-**Nov 2020 &rarr; Present**
+**Nov 2020 &rarr; Sept 2022**
 
 *Munich, Germany*
 - Software engineering consultant with a focus towards ML engineering
@@ -15,6 +22,7 @@
   - data and feature exploration using standard data science stack (`jupyter notebooks`, `pandas`, `numpy`, `seaborn`) and data versioning and ETL pipelines using [dvc](https://dvc.org/doc/start/data-and-model-versioning) and [Airflow](https://airflow.apache.org/)
   - provisioned and maintained machine learning platform infrastructure on [AWS](https://aws.amazon.com/) and cloud migration to [Azure](https://azure.microsoft.com/en-us/) using [terraform](https://www.terraform.io/), [terragrunt](https://terragrunt.gruntwork.io/), [pulumi](https://www.pulumi.com/) and [ansible](https://www.ansible.com/).
   - monitoring of machine learning projects in production using [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
+  - Created retrainable ML pipelines with terraform using multiple AWS cloud services for customer churn prediction.
 
 ### [Medikura Digital Health GmbH ( now XO Life )](https://www.linkedin.com/company/xo-life/)
 **June 2019 &rarr; Aug 2020**
