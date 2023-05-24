@@ -9,9 +9,16 @@
 ### [union.ai](https://www.union.ai/)
 **Oct 2022 &rarr; Present**
 
-*Munich, Germany*
+*Remote; Munich, Germany*
 - Infrastructure engineer
 - Responsible for defining strategy and implementing a multi-cloud highly scalable and reliable infrastructure for union.ai flagship product, [flyte](https://flyte.org/)
+- Designed, documented, and implemented managed infrastructure for flyte on AWS and GCP cloud platforms. Managed flyte is comprised of managing regional control planes and having customer dataplanes connect to it. flyte control plane manages multiple services and components including [FlyteAdmin, FlyteConsole and DataCatalogue](https://docs.flyte.org/en/latest/deployment/deployment/index.html#deployment-deployment).
+- Configured and managed Kubernetes for cost-effective scalability and reliability of managed flyte for customers. This includes setting up VPC and networking layer, as well as Kubernetes Cluster and respective nodesgroups for customer workloads. Majority of infrastructure is configured via Terraform.
+- Managed and enhanced buildkite pipelines for efficient deployment of internal services and infrastructure. These pipelines are responsible for deployment of services within the union monorepo as well as union control planes and customer dataplanes.
+- Automated internal processes using pyinvoke and makefiles
+- System Monitoring and Troubleshooting using Grafana Cloud and Grafana Agent
+- Participated in OnCall rotation for round-the-clock system monitoring and prompt issue resolution
+- Comprehensive and clear documentation of requirements, processes and tooling
 
 ### [Reply AG](https://www.linkedin.com/company/machine-learning-reply-de/)
 **Nov 2020 &rarr; Sept 2022**
@@ -169,7 +176,7 @@
 ## Skills and Competencies
 - __Languages__: Python, Go, Typescript, Swift, C++, C, Java, C#, SQL, Javascript
 - __Data Science stack__: Jupyter, Pandas, numpy, seaborn, XGBoost, lightbgm, dvc, Airflow, ELK stack
-- __Infrastructure__: AWS, Azure, GCP, terraform, terragrunt, pulumi, Gitlab CI/CD, Github Actions, docker, Kubernetes
+- __Infrastructure__: AWS, Azure, GCP, terraform, terragrunt, pulumi, buildkite, Gitlab CI/CD, Github Actions, docker, Kubernetes
 - __Web__: Flask, Gunicorn, Uvicorn, React, Django, Typescript, Python, Google APIs, MongoDb, node.js, Swagger
 - __ML Framework__: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
 - __Mobile Development__: Android, iOS, Swift, Java, XCode, Android Studio
