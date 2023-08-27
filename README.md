@@ -7,9 +7,18 @@ _I have worked for 4+ years in Software development, eventually finding my true 
 
 ## Experience
 
+### [synthesia.io](https://www.synthesia.io/)
+
+**Aug 2023 &rarr; Present**
+
+_Hybrid ; Munich, Germany_
+
+- MLOps platform engineer, responsible for ideating and implementing scalable and reliable MLOps platform for synthesia's in house RnD teams.
+
+
 ### [union.ai](https://www.union.ai/)
 
-**Oct 2022 &rarr; Present**
+**Oct 2022 &rarr; June 2023**
 
 _Remote; Munich, Germany_
 
