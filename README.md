@@ -223,3 +223,9 @@ _Lahore, Pakistan_
 - **Web**: Flask, Gunicorn, Uvicorn, React, Django, Typescript, Python, Google APIs, MongoDb, node.js, Swagger
 - **ML Framework**: Pytorch, ZenML, Metaflow, flyte, MLflow, BentoML, Kafka, Apache Beam
 - **Mobile Development**: Android, iOS, Swift, Java, XCode, Android Studio
+
+## Talks and presentations
+
+- Presentation on MLOps Community meetup for flyte hackathon: [youtube](https://youtu.be/OLD5-G9R9fw?si=Z6c_i6kIWJtOZeUe&t=3064)
+- [Munich MLOps Community meetup](https://lu.ma/r0yyxx69): [mlinfra](https://mlinfra.io/) demo session
+- [AI Developers Munich Meetup](https://lu.ma/6rwocpuk): [mlinfra](https://mlinfra.io/) demo session
